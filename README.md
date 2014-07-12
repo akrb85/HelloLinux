@@ -1,6 +1,5 @@
 Hello.c
 ==========
-linux start
 
 #include<stdio.h>
 
